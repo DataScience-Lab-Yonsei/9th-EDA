@@ -1,5 +1,5 @@
 # 9th_EDA
-## 데사랩 9기 EDA 프로젝트 (2022.01.05 ~ 2022.01.26)
+## 데사랩 9기 EDA 프로젝트 (2023.01.05 ~ 2023.01.26)
 신입(9기) 학회원들이 기초세션을 수강함과 동시에 5조로 구성되어 서로 다른 주제의 데이터를 탐색 및 분석하며 <strong>유의미한 인사이트를 도출하는 EDA 프로젝트</strong>를 진행하였습니다.
 <br><br>
 
@@ -9,11 +9,11 @@
 
 ||팀장|팀원|Dataset|Presentation|Reference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1조|8기 도승범|9기 서연우<br>9기 신소연<br>9기 유선재<br>9기 정주영|[금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/Dataset/kospi_data.csv)|[PDF](pdf)|[Code](code)|
-|2조|7기 박지호|8기 유채원<br>8기 이서현<br>8기 한예림<br>8기 안세정|[Google playstore 데이터](https://github.com/DataScience-Lab-Yonsei/8th_EDA/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B/Google%20playstore%20%EB%8D%B0%EC%9D%B4%ED%84%B0)|[PDF](https://github.com/DataScience-Lab-Yonsei/8th_EDA/blob/main/2%EC%A1%B0/2%EC%A1%B0_PPT.pdf)|[Code](https://github.com/DataScience-Lab-Yonsei/8th_EDA/tree/main/2%EC%A1%B0/code)|
-|3조|7기 김찬영|8기 강건우<br>8기 도승범<br>8기 조찬형<br>8기 송규원|[신용카드 연체 데이터](https://github.com/DataScience-Lab-Yonsei/8th_EDA/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EC%97%B0%EC%B2%B4%20%EC%98%88%EC%B8%A1%20%EB%8D%B0%EC%9D%B4%ED%84%B0)|[PDF](https://github.com/DataScience-Lab-Yonsei/8th_EDA/blob/main/3%EC%A1%B0/3%EC%A1%B0%20EDA%20%EC%B5%9C%EC%A2%85%EC%9E%90%EB%A3%8C/3%EC%A1%B0%20EDA%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|[Code](https://github.com/DataScience-Lab-Yonsei/8th_EDA/blob/main/3%EC%A1%B0/3%EC%A1%B0%20EDA%20%EC%B5%9C%EC%A2%85%EC%9E%90%EB%A3%8C/3%EC%A1%B0%20EDA%20%EC%B5%9C%EC%A2%85%20%EC%BD%94%EB%93%9C.ipynb)|
-|4조|7기 이승주|8기 김남훈<br>8기 손승진<br>8기 조보경<br>8기 김지희|[Youtube 데이터](https://github.com/DataScience-Lab-Yonsei/8th_EDA/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B/Youtube%20%EB%8D%B0%EC%9D%B4%ED%84%B0)|[PDF](https://github.com/DataScience-Lab-Yonsei/8th_EDA/blob/main/4%EC%A1%B0/EDA%204%EC%A1%B0.pdf)|[Code](https://github.com/DataScience-Lab-Yonsei/8th_EDA/tree/main/4%EC%A1%B0/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%BD%94%EB%93%9C)|
-|5조|7기 김형민|8기 엄소은<br>8기 정건우<br>8기 차혜준<br>8기 백민준|[소상공인 데이터](https://github.com/DataScience-Lab-Yonsei/8th_EDA/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B/%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%EC%8B%9C%EC%9E%A5%EC%A7%84%ED%9D%A5%EA%B3%B5%EB%8B%A8%20%EC%83%81%EA%B6%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0)|[PDF](https://github.com/DataScience-Lab-Yonsei/8th_EDA/blob/main/5%EC%A1%B0/EDA%20%EC%B5%9C%EC%A2%85%20PPT.pdf)|[Code](https://github.com/DataScience-Lab-Yonsei/8th_EDA/tree/main/5%EC%A1%B0/EDA%20final%20code)|
+|1조|8기 도승범|9기 서연우<br>9기 신소연<br>9기 유선재<br>9기 정주영|[금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
+|2조|8기 조보경|9기 김영현<br>9기 임세민<br>9기 장현빈<br>9기 전재병|[산업1(Crunchbase  스타트업 데이터베이스에서 얻은 전세계 스타트업 관련 투자정보, 투자금액, 기업소개 등 에 대한 데이터)](data)|[PDF](pdf)|[Code](code)|
+|3조|8기 강건우|9기 권수연<br>9기 김진하<br>9기 이승원<br>9기 이원준|[산업2(서울 시내 점포의 배후지, 지역 별 점포 정보에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/3%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
+|4조|8기 이재우|9기 김서진<br>9기 박서연<br>9기 임선민<br>9기 조세린<br>9기 조의현|[환경(서울 시내 구 별 대기 오염도와 조성에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/4%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
+|5조|8기 송규원|9기 김현동<br>9기 남승우<br>9기 심은조<br>9기 유희조<br>9기 이성균|[교통(서울 시내 지하철, 버스 노선 별 승하차 인원에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/5%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
 <br><br>
 
  
