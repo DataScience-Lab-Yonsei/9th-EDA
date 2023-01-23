@@ -20,7 +20,7 @@
  
 # 2023-Spring-BasicSession
 ## 기초세션
-세션 자료는 BasicSession 폴더를 참고해주세요!
+세션 자료는 BasicSession 폴더를 참고해주세요.
 
 
 |Date|Topic|Reference|Lecture|Presenter|
