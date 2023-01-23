@@ -7,9 +7,9 @@
 [EDA 프로젝트 최종 발표 영상](url)
 
 
-||팀장|팀원|Dataset|Presentation|Reference|
+||팀장(8기)|팀원(9기)|Dataset|Presentation|Reference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1조|8기 도승범|9기 서연우<br>9기 신소연<br>9기 유선재<br>9기 정주영|[금융<br>(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
+|1조|도승범|서연우<br>신소연<br>유선재<br>정주영|[금융<br>(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
 |2조|8기 조보경|9기 김영현<br>9기 임세민<br>9기 장현빈<br>9기 전재병|[산업1<br>(스타트업 관련 투자정보, 투자금액, 기업소개에 대한 데이터)](data)|[PDF](pdf)|[Code](code)|
 |3조|8기 강건우|9기 권수연<br>9기 김진하<br>9기 이승원<br>9기 이원준|[산업2<br>(서울 시내 점포의 배후지, 지역 별 점포 정보에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/3%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
 |4조|8기 이재우|9기 김서진<br>9기 박서연<br>9기 임선민<br>9기 조세린<br>9기 조의현|[환경<br>(서울 시내 구 별 대기 오염도와 조성에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/4%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
