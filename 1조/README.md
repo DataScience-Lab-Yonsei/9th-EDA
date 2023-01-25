@@ -8,8 +8,7 @@
 
 #### EDA 자료 소개
 * Dataset : [kospi_data.csv](https://dacon.io/competitions/official/235980/data, 'data-link')
-    -데이터에 대한 간단한 설명
-    -출처 : link
+    - 데이터에 대한 간단한 설명
   
 - 3조 EDA 발표자료 : 최종 발표 ppt자료를 pdf로 변환한 파일입니다
 - 3조 EDA 최종 코드 : 발표 자료 분석 및 시각화에 쓰인 코드입니다. 해당 코드 작성자 이름과 시각화자료가 등장하는 슬라이드 넘버가 기재되어 있습니다
@@ -90,7 +89,9 @@
 
 ```bash
 ├── Dataset
-│   └── kospi_data.csv
+│   ├── kospi_data.csv
+│   └── 추가로찾은데이터
+│   └── 추가로크롤링한데이터
 ├── 도승범
 │   └── dummy.txt
 ├── 서연우
