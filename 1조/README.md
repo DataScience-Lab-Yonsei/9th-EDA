@@ -13,7 +13,7 @@
 ![iOS badge](https://img.shields.io/badge/iOS-13.0%2B-green)
 ![Factorio Mod Portal mod](https://img.shields.io/factorio-mod-portal/last-updated/rso-mod)
 
-
+![Mozilla Add-on](https://img.shields.io/amo/dw/dustman)
 
 ## EDA 요약
 
