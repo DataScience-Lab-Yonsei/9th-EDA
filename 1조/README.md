@@ -11,7 +11,7 @@
 - 3조 EDA 최종 코드 : 발표 자료 분석 및 시각화에 쓰인 코드입니다. 해당 코드 작성자 이름과 시각화자료가 등장하는 슬라이드 넘버가 기재되어 있습니다
 
 ![iOS badge](https://img.shields.io/badge/iOS-13.0%2B-green)
-
+![Factorio Mod Portal mod](https://img.shields.io/factorio-mod-portal/last-updated/rso-mod)
 
 
 
