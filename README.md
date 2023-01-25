@@ -1,4 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataScience-Lab-Yonsei/9th_EDA)
+![GitHub issues](https://img.shields.io/github/issues/DataScience-Lab-Yonsei/9th_EDA)
 
 # 9th_EDA
 ## 데사랩 9기 EDA 프로젝트 (2023.01.05 ~ 2023.01.26)
