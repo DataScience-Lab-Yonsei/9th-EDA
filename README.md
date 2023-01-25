@@ -22,6 +22,7 @@
 |3|강건우|권수연<br>김진하<br>이승원<br>이원준|[산업2<br>(서울 시내 점포의 배후지, 지역 별 점포 정보에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/3%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
 |4|이재우|김서진<br>박서연<br>임선민<br>조세린<br>조의현|[환경<br>(서울 시내 구 별 대기 오염도와 조성에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/4%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
 |5|송규원|김현동<br>남승우<br>심은조<br>유희조<br>이성균|[교통<br>(서울 시내 지하철, 버스 노선 별 승하차 인원에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/5%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
+
 <br><br>
 
 
