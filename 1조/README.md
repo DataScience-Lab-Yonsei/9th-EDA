@@ -101,7 +101,7 @@
 └── run.sh
 ``` 
 
-.
+```bash
 ├── Dataset
 │   └── kospi_data.csv
 ├── EDA_1조_발표자료.pdf
@@ -152,5 +152,4 @@
     │   └── [0112]_통계적사고_9기_정주영_과제제출.pdf
     ├── [0117]_Visualization_9기_정주영_과제제출.ipynb
     └── [0119]_Crawling_9기_정주영_과제제출.ipynb
-
-15 directories, 36 files
+``` 
