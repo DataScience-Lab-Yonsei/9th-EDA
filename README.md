@@ -1,7 +1,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/DataScience-Lab-Yonsei/9th_EDA)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/DataScience-Lab-Yonsei/9th_EDA)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataScience-Lab-Yonsei/9th_EDA)
-![GitHub contributors](https://img.shields.io/github/contributors/DataScience-Lab-Yonsei/9th_EDA)
+![GitHub contributors](https://img.shields.io/github/contributors/DataScience-Lab-Yonsei/9th_EDA?logoColor=blueviolet)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdJ4JdGyazP5ZxsE3UTGZVQ?style=plastic)
 
 
