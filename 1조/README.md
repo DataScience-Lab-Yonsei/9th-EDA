@@ -3,18 +3,6 @@
 
 ## 금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)
 
-```bash
-├── data
-│   ├── train
-│   ├── test
-│   └── validation
-├── code
-│   ├── train.py
-│   ├── classify.py
-│   ├── model.py
-│   └── dataset.py
-└── run.sh
-``` 
 
 #### 도승범, 서연우, 신소연, 유선재, 정주영
 
@@ -99,3 +87,16 @@
 
 ## 최종 코드
 - 코드가 여러개일 경우, 코드별 설명을 달아주세요.
+
+```bash
+├── data
+│   ├── train
+│   ├── test
+│   └── validation
+├── code
+│   ├── train.py
+│   ├── classify.py
+│   ├── model.py
+│   └── dataset.py
+└── run.sh
+``` 
