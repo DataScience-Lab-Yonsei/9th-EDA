@@ -1,7 +1,9 @@
-## 금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)
-
 ![Factorio Mod Portal mod](https://img.shields.io/factorio-mod-portal/last-updated/rso-mod)
 ![Mozilla Add-on](https://img.shields.io/amo/dw/dustman)
+
+## 금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)
+
+
 
 #### 도승범, 서연우, 신소연, 유선재, 정주영
 
