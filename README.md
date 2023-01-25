@@ -33,7 +33,7 @@
 |Date|Topic|Reference|Lecture|Presenter|
 |:---:|:---:|:---:|:---:|:---:|
 |23.01.05|Numpy_&_Pandas|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0105%5D_Numpy_%26_Pandas)|[Youtube](url)|8기 손승진|
-|23.01.10|EDA 방법론|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0110%5D_EDA_%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%86%AB)|[Youtube]([url](https://youtu.be/XnxzPkZA3xQ))|8기 조찬형|
-|23.01.12|통계적 사고|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0112%5D_%E1%84%90%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9)|[Youtube]([url](https://youtu.be/Rp9YWSLpj9I))|8기 정건우|
+|23.01.10|EDA 방법론|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0110%5D_EDA_%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%86%AB)|[Youtube](https://youtu.be/XnxzPkZA3xQ)|8기 조찬형|
+|23.01.12|통계적 사고|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0112%5D_%E1%84%90%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9)|[Youtube](https://youtu.be/Rp9YWSLpj9I)|8기 정건우|
 |23.01.17|Visualization|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0117%5D_Visualization)|[Youtube](https://youtu.be/B5PXbgRS4Rs)|8기 안세정|
-|23.01.19|Crawling|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0119%5D_Crawling)|[Youtube]([url](https://youtu.be/c2ie24BnepM))|8기 유채원|
+|23.01.19|Crawling|[Github](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/BasicSession/%5B0119%5D_Crawling)|[Youtube](https://youtu.be/c2ie24BnepM)|8기 유채원|
