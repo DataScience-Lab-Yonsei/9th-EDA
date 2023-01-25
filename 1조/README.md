@@ -7,9 +7,10 @@
 #### 도승범, 서연우, 신소연, 유선재, 정주영
 
 #### EDA 자료 소개
-* Dataset : [kospi_data.csv](https://dacon.io/competitions/official/235980/data, 'data-link')
-    - 데이터에 대한 간단한 설명
-  
+> Dataset
+> * [kospi_data.csv](https://dacon.io/competitions/official/235980/data)
+> * [추가로찾은데이터.csv](관련된 데이터를 얻은 링크 <- 출처를 의미)
+>   
 - 3조 EDA 발표자료 : 최종 발표 ppt자료를 pdf로 변환한 파일입니다
 - 3조 EDA 최종 코드 : 발표 자료 분석 및 시각화에 쓰인 코드입니다. 해당 코드 작성자 이름과 시각화자료가 등장하는 슬라이드 넘버가 기재되어 있습니다
 
