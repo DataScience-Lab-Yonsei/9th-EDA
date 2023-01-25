@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/DataScience-Lab-Yonsei/9th_EDA)
+
 # 9th_EDA
 ## 데사랩 9기 EDA 프로젝트 (2023.01.05 ~ 2023.01.26)
 신입(9기) 학회원들이 기초세션을 수강함과 동시에 5조로 구성되어 서로 다른 주제의 데이터를 탐색 및 분석하며 <strong>유의미한 인사이트를 도출하는 EDA 프로젝트</strong>를 진행하였습니다.
