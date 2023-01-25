@@ -2,7 +2,6 @@
 ![Mozilla Add-on](https://img.shields.io/amo/dw/dustman)
 
 ## 금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)
-<br/>
 
 #### 참여자 : 도승범, 서연우, 신소연, 유선재, 정주영
 #### EDA 자료 소개
@@ -16,6 +15,7 @@
 >   * EDA_1조_코드(2).ipynb : 대략적으로 어떤 코드인지 설명을 적어주세요.
 
 
+<br/>
 
 ## EDA 요약
 
