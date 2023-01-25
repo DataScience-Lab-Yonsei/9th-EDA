@@ -7,8 +7,8 @@
 #### 참여자 : 도승범, 서연우, 신소연, 유선재, 정주영
 
 #### EDA 자료 소개
-> Dataset
-> * [kospi_data.csv](https://dacon.io/competitions/official/235980/data)
+> * Dataset
+>   * [kospi_data.csv](https://dacon.io/competitions/official/235980/data)
 > * [추가로찾은데이터.csv](관련된 데이터를 얻은 링크 <- 출처를 의미)
 > * [추가로크롤링한데이터.csv](필요시 위처럼 링크를 달 것)
 - 3조 EDA 발표자료 : 최종 발표 ppt자료를 pdf로 변환한 파일입니다
