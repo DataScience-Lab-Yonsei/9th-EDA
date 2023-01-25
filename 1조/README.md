@@ -1,5 +1,8 @@
 ## 금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)
 
+![Factorio Mod Portal mod](https://img.shields.io/factorio-mod-portal/last-updated/rso-mod)
+![Mozilla Add-on](https://img.shields.io/amo/dw/dustman)
+
 #### 도승범, 서연우, 신소연, 유선재, 정주영
 
 #### EDA 자료 소개
@@ -10,10 +13,6 @@
 - 3조 EDA 발표자료 : 최종 발표 ppt자료를 pdf로 변환한 파일입니다
 - 3조 EDA 최종 코드 : 발표 자료 분석 및 시각화에 쓰인 코드입니다. 해당 코드 작성자 이름과 시각화자료가 등장하는 슬라이드 넘버가 기재되어 있습니다
 
-![iOS badge](https://img.shields.io/badge/iOS-13.0%2B-green)
-![Factorio Mod Portal mod](https://img.shields.io/factorio-mod-portal/last-updated/rso-mod)
-
-![Mozilla Add-on](https://img.shields.io/amo/dw/dustman)
 
 ## EDA 요약
 
