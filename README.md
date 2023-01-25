@@ -2,8 +2,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/DataScience-Lab-Yonsei/9th_EDA)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataScience-Lab-Yonsei/9th_EDA)
 ![GitHub contributors](https://img.shields.io/github/contributors/DataScience-Lab-Yonsei/9th_EDA?color=purple)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdJ4JdGyazP5ZxsE3UTGZVQ?style=plastic)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/DataScience-Lab-Yonsei/9th_EDA?color=red)
 
 # 9th_EDA
 ## 데사랩 9기 EDA 프로젝트 (2023.01.05 ~ 2023.01.26)
