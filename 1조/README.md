@@ -1,5 +1,6 @@
 ![Factorio Mod Portal mod](https://img.shields.io/factorio-mod-portal/last-updated/rso-mod)
 ![Mozilla Add-on](https://img.shields.io/amo/dw/dustman)
+![GitHub repo size](https://img.shields.io/github/repo-size/atom/atom)
 
 
 
