@@ -7,7 +7,7 @@
 #### 도승범, 서연우, 신소연, 유선재, 정주영
 
 #### EDA 자료 소개
-* Dataset : [kospi_data.csv] : https://dacon.io/competitions/official/235980/data
+* Dataset : [kospi_data.csv](https://dacon.io/competitions/official/235980/data)
     -데이터에 대한 간단한 설명
     -출처 : link
   
