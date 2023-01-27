@@ -6,7 +6,7 @@
 #### 참여자 : 도승범, 서연우, 신소연, 유선재, 정주영
 #### EDA 프로젝트 자료 소개
 > * Dataset
->   * [kospi_data.csv](https://dacon.io/competitions/official/235980/data) : 대략적으로 어떤 데이터인지 간단하게 설명을 적어주세요. Ex. KOSPI의 일간 등락, 종가, 시가 등의 정보를 담고 있는 데이터입니다.
+>   * [kospi_data.csv](https://dacon.io/competitions/official/235980/data) : KOSPI의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터입니다.
 >   * [추가로찾은데이터.csv](관련된 데이터를 얻은 링크 <- 출처를 의미)
 >   * [추가로크롤링한데이터.csv](필요시 위처럼 링크를 달 것)
 > * 1조 EDA 발표자료 : EDA 발표 때 사용한 ppt입니다.
