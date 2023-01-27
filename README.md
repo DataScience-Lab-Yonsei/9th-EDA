@@ -18,11 +18,11 @@
 
 |Team|팀장(8기)|팀원(9기)|Dataset|Presentation|Reference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|도승범|서연우<br>신소연<br>유선재<br>정주영|[금융<br>(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
-|2|조보경|김영현<br>임세민<br>장현빈<br>전재병|[산업1<br>(스타트업 관련 투자정보, 투자금액, 기업소개에 대한 데이터)](data)|[PDF](pdf)|[Code](code)|
-|3|강건우|권수연<br>김진하<br>이승원<br>이원준|[산업2<br>(서울 시내 점포의 배후지, 지역 별 점포 정보에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/3%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
-|4|이재우|김서진<br>박서연<br>임선민<br>조세린<br>조의현|[환경<br>(서울 시내 구 별 대기 오염도와 조성에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/4%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
-|5|송규원|김현동<br>남승우<br>심은조<br>유희조<br>이성균|[교통<br>(서울 시내 지하철, 버스 노선 별 승하차 인원에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/5%E1%84%8C%E1%85%A9/Dataset)|[PDF](pdf)|[Code](code)|
+|1|도승범|서연우<br>신소연<br>유선재<br>정주영|[금융<br>(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/Dataset)|[PDF](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|[Code](code)|
+|2|조보경|김영현<br>임세민<br>장현빈<br>전재병|[산업1<br>(스타트업 관련 투자정보, 투자금액, 기업소개에 대한 데이터)](data)|[PDF](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/2%E1%84%8C%E1%85%A9/EDA_2%E1%84%8C%E1%85%A9_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)|[Code](code)|
+|3|강건우|권수연<br>김진하<br>이승원<br>이원준|[산업2<br>(서울 시내 점포의 배후지, 지역 별 점포 정보에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/3%E1%84%8C%E1%85%A9/Dataset)|[PDF](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/3%E1%84%8C%E1%85%A9/EDA_3%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|[Code](code)|
+|4|이재우|김서진<br>박서연<br>임선민<br>조세린<br>조의현|[환경<br>(서울 시내 구 별 대기 오염도와 조성에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/4%E1%84%8C%E1%85%A9/Dataset)|[PDF](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/4%E1%84%8C%E1%85%A9/EDA_4%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|[Code](code)|
+|5|송규원|김현동<br>남승우<br>심은조<br>유희조<br>이성균|[교통<br>(서울 시내 지하철, 버스 노선 별 승하차 인원에 관한 데이터)](https://github.com/DataScience-Lab-Yonsei/9th_EDA/tree/main/5%E1%84%8C%E1%85%A9/Dataset)|[PDF](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/5%E1%84%8C%E1%85%A9/EDA_5%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|[Code](code)|
 
 <br><br>
 
