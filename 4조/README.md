@@ -6,16 +6,15 @@
 #### 참여자 : 이재우, 김서진, 박서연, 임선민, 조세린, 조의현
 #### EDA 프로젝트 자료 소개
 > * Dataset
->   * [서울시 년도별 평균 대기오염도 정보] (https://data.seoul.go.kr/dataList/OA-2216/S/1/datasetView.do) : 연도별 평균 대기오염물질 농도 정보를 담은 데이터
->   * [서울시 월별 평균 대기오염도 정보] (https://data.seoul.go.kr/dataList/OA-2217/S/1/datasetView.do): 월별 평균 대기오염물질 농도 정보를 담은 데이터
->   * [서울시 시간 평균 대기오염도 정보] (https://data.seoul.go.kr/dataList/OA-2275/S/1/datasetView.do): 시간별 평균 대기오염물질 농도 정보를 담은 데이터
->   * [서울시 지역 구별 측정소 행정코드 정보] (https://data.seoul.go.kr/dataList/OA-1199/S/1/datasetView.do): 대기오염 측정소의 행정코드 정보를 담은 데이터
->   * [서울시 기간별 일평균 대기환경 정보] (https://data.seoul.go.kr/dataList/OA-2220/S/1/datasetView.do): 기간별로 하루 평균 대기오염물질 농도 정보를 담은 데이터
->   * [서울시 기간별 시간평균 대기환경 정보] (https://data.seoul.go.kr/dataList/OA-2221/S/1/datasetView.do): 기간별로 시간 평균(1시간, 24시간) 대기오염물질 농도 정보를 담은 데이터
+>   * [서울시 년도별 평균 대기오염도 정보](https://data.seoul.go.kr/dataList/OA-2216/S/1/datasetView.do) : 연도별 평균 대기오염물질 농도 정보를 담은 데이터
+>   * [서울시 월별 평균 대기오염도 정보](https://data.seoul.go.kr/dataList/OA-2217/S/1/datasetView.do): 월별 평균 대기오염물질 농도 정보를 담은 데이터
+>   * [서울시 시간 평균 대기오염도 정보](https://data.seoul.go.kr/dataList/OA-2275/S/1/datasetView.do): 시간별 평균 대기오염물질 농도 정보를 담은 데이터
+>   * [서울시 지역 구별 측정소 행정코드 정보](https://data.seoul.go.kr/dataList/OA-1199/S/1/datasetView.do): 대기오염 측정소의 행정코드 정보를 담은 데이터
+>   * [서울시 기간별 일평균 대기환경 정보](https://data.seoul.go.kr/dataList/OA-2220/S/1/datasetView.do): 기간별로 하루 평균 대기오염물질 농도 정보를 담은 데이터
+>   * [서울시 기간별 시간평균 대기환경 정보](https://data.seoul.go.kr/dataList/OA-2221/S/1/datasetView.do): 기간별로 시간 평균(1시간, 24시간) 대기오염물질 농도 정보를 담은 데이터
 > * [4조 EDA 발표자료](깃허브 url) : EDA 발표 때 사용한 ppt입니다.
 > * [4조 EDA 최종 코드](깃허브 url) : EDA 발표와 관련하여 사용된 코드입니다.
->   * [EDA_1조_코드(1).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xx데이터 수집을 위한 크롤링 코드입니다.
->   * [EDA_1조_코드(2).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xxtask를 수행하기 위한 시각화 및 통계적 검정과 관련된 코드입니다.
+
 <br>
 
 
