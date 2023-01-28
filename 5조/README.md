@@ -2,15 +2,16 @@
 
 
 
-## 금융(KOSPI 일간 등락, 종가, 시가 등의 금융 관련 데이터)
-#### 참여자 : 도승범, 서연우, 신소연, 유선재, 정주영
+## 교통(일별 지하철 역별, 노선별 승하차 인원, 버스 노선, 정류장별 승하차 인원 등 교통 관련 데이터)
+#### 참여자 : 송규원, 김현동, 남승우, 심은조, 유희조, 이성균
 #### EDA 프로젝트 자료 소개
 > * Dataset
->   * [kospi_data.csv](https://dacon.io/competitions/official/235980/data) : 대략적으로 어떤 데이터인지 간단하게 설명을 적어주세요. Ex. KOSPI의 일간 등락, 종가, 시가 등의 정보를 담고 있는 데이터입니다.
->   * [추가로찾은데이터.csv](관련된 데이터를 얻은 링크 <- 출처를 의미)
->   * [추가로크롤링한데이터.csv](필요시 위처럼 링크를 달 것)
-> * 1조 EDA 발표자료 : EDA 발표 때 사용한 ppt입니다.
-> * 1조 EDA 최종 코드 : EDA 발표와 관련하여 사용된 코드입니다.
+>   * [CARD_SUBWAY_MONTH_201501.csv - CARD_SUBWAY_MONTH_202211.csv](https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do) : 2015년 1월 - 2022년 11월 지하철 호선별, 역별 승하차 인원 데이터
+>   * [BUS_STATION_BOARDING_MONTH_201501.csv - BUS_STATION_BOARDING_MONTH_202212.csv](https://data.seoul.go.kr/dataList/OA-12912/S/1/datasetView.do) : 2015년 1월 - 2022년 12월 버스정류장별, 노선별 승하차 인원 데이터
+>   *
+>   * [시간대별 지하철 승하차 인원.csv](<strong>고쳐야함</strong>)
+> * 5조 EDA 발표자료 : [EDA_5조_발표자료.pdf](5조/EDA_5조_발표자료.pdf)
+> * 5조 EDA 최종 코드 : 고쳐야함
 >   * [EDA_1조_코드(1).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xx데이터 수집을 위한 크롤링 코드입니다.
 >   * [EDA_1조_코드(2).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xxtask를 수행하기 위한 시각화 및 통계적 검정과 관련된 코드입니다.
 <br>
@@ -21,14 +22,14 @@
 
 1. 데이터 소개
 
-        - kospi_data.csv : KOSPI의 일간 등락, 종가, 시가 등의 정보를 담고 있는 데이터
-        - 중국 신용카드 회사의 고객정보가 담긴 데이터
-        - 성별, 차량 소유 여부, 주택 소유 여부, 가족 수, 자녀 수, 연봉, 직업, 교육 수준, 나이, 신용등급 등 20개의 column이 존재
+        - CARD_SUBWAY_MONTH_201501.csv - CARD_SUBWAY_MONTH_202211.csv : 2015년 1월 - 2022년 11월 지하철 호선별, 역별 승하차 인원 데이터
+        - BUS_STATION_BOARDING_MONTH_201501.csv - BUS_STATION_BOARDING_MONTH_202212.csv : 2015년 1월 - 2022년 12월 버스정류장별, 노선별 승하차 인원 데이터
+        - 추가 데이터 확보 후 고칠 예정
    
 2. 데이터 전처리
 
-        - ??
-        - ??
+        - 공개입찰을 통한 부역명 제외 -> 주역명 사용
+        - [번역 사이트](https://papago.naver.com)를 통한 지하철 역명 영문명 변환
  
 3. 분석 방법 및 결과
     
