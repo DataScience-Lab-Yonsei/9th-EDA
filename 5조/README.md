@@ -10,7 +10,7 @@
 >   * [BUS_STATION_BOARDING_MONTH_201501.csv - BUS_STATION_BOARDING_MONTH_202212.csv](https://data.seoul.go.kr/dataList/OA-12912/S/1/datasetView.do) : 2015년 1월 - 2022년 12월 버스정류장별, 노선별 승하차 인원 데이터
 >   *
 >   * [시간대별 지하철 승하차 인원.csv](<strong>고쳐야함</strong>)
-> * 5조 EDA 발표자료 : [EDA_5조_발표자료.pdf](5조/EDA_5조_발표자료.pdf)
+> * 5조 EDA 발표자료 : [EDA_5조_발표자료.pdf]([5조/EDA_5조_발표자료.pdf](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/5%E1%84%8C%E1%85%A9/EDA_5%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf))
 > * 5조 EDA 최종 코드 : 고쳐야함
 >   * [EDA_1조_코드(1).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xx데이터 수집을 위한 크롤링 코드입니다.
 >   * [EDA_1조_코드(2).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xxtask를 수행하기 위한 시각화 및 통계적 검정과 관련된 코드입니다.
@@ -29,7 +29,7 @@
 2. 데이터 전처리
 
         - 공개입찰을 통한 부역명 제외 -> 주역명 사용
-        - [번역 사이트](https://papago.naver.com)를 통한 지하철 역명 영문명 변환
+        - [Papago](https://papago.naver.com)를 통한 지하철 역명 영문명 변환
  
 3. 분석 방법 및 결과
     
