@@ -83,8 +83,8 @@
 ├── EDA_1조_발표자료.pdf
 ├── EDA_1조_코드
 │   ├── 월요일효과
-|       ├──
-|       └──
+|       ├── [월요일효과_all_date.ipynb](https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EC%BD%94%EB%93%9C/%EC%9B%94%EC%9A%94%EC%9D%BC%ED%9A%A8%EA%B3%BC/%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%92%E1%85%AD%E1%84%80%E1%85%AA_all_data.ipynb) : 월요일 효과 가설 검정 코드
+|       └── [요일별_변동성.ipynb] (https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EC%BD%94%EB%93%9C/%EC%9B%94%EC%9A%94%EC%9D%BC%ED%9A%A8%EA%B3%BC/%EC%9A%94%EC%9D%BC%EB%B3%84_%EB%B3%80%EB%8F%99%EC%84%B1.ipynb) : 요일별 VKOSPI 지수 비교하는 코드
 |       └──
 │   └── 연말효과      
 │   └── 1월효과
