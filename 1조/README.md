@@ -8,14 +8,15 @@
 > * Dataset
 >   * [kospi_data.csv](https://dacon.io/competitions/official/235980/data) : KOSPI의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
 >   * [kosdaq_data.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : KOSDAQ의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
->   * [nasdaq_data.csv](필요시 위처럼 링크를 달 것)
->   * [S&P_data.csv]
+>   * [nasdaq_data.csv](https://kr.investing.com/indices/nasdaq-composite) : NASDAQ의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터 
+>   * [S&P_data.csv](https://kr.investing.com/indices/us-spx-500) : S&P500의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터 
 >   * [volume_investors.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : 투자자 유형별 일별 순매수금액을 담고 있는 데이터
 >   * [소비지출.xlsx](https://ecos.bok.or.kr/#/SearchStat) : 통계청 분기별 가계소비지출 데이터
->   * [반도체.csv]
+>   * [반도체.csv](https://kosis.kr/statHtml/statHtml.do?orgId=127&tblId=DT_092_115_2009_S023&conn_path=I2) : 통계청 월별 반도체 수출액 데이터 
 >   * [삼성전자.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : 삼성전자 주식의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
 >   * [sk하이닉스.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : SK하이닉스 주식의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
 >   * [KOVIX.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : VKOSPI의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
+>   * [지표.csv](https://datacenter.hankyung.com/economic-calendar) : 경제지표 발표일정
 > * [1조 EDA 발표자료](https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : EDA 발표 때 사용한 ppt
 > * [1조 EDA 코드](https://github.com/SeungbeomDo/9th_EDA/tree/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EC%BD%94%EB%93%9C) : EDA 발표와 관련하여 사용된 코드. 이하 tree 참조
 <br>
@@ -97,21 +98,22 @@
 ├── EDA_1조_발표자료.pdf
 ├── EDA_1조_코드
 │   ├── 월요일효과
-|       ├── 월요일효과_all_date.ipynb : 월요일 효과 가설 검정 코드
-|       └── 요일별_변동성.ipynb : 요일별 VKOSPI 지수 비교하는 코드
-|       └──
+|   │     ├── 월요일_평균_수익률.ipynb : 월요일 효과 가설 검정 코드
+|   │     └── 요일별_변동성.ipynb : 요일별 VKOSPI 지수 비교하는 코드
+|   │     └── 경제지표.ipynb : 요일별 경제지표 발표 횟수 비교 코드
+|   │     └── 월요일효과_all_date.ipynb : 여타 국가의 월요일 효과 가설 검정 코드
 │   └── 연말효과
-        ├── 분기별_소비지출.ipynb : 분기별 소비지출 비교 코드
-        └── 수익률_코드_정리.ipynb : 월간, 분기간 수익률 산출 코드
-        └── 순매수_코드_정리.ipynb : 12월 동안의 거래주체별 순매수량 비교 코드
+|   │     ├── 분기별_소비지출.ipynb : 분기별 소비지출 비교 코드
+|   │     └── 수익률_코드_정리.ipynb : 월간, 분기간 수익률 산출 코드
+|   │     └── 순매수_코드_정리.ipynb : 12월 동안의 거래주체별 순매수량 비교 코드
 │   └── 1월효과
-        ├── 1월_코스피_코스닥_비교.ipynb : 1월 동안의 코스피, 코스닥 종가 패턴 비교 코드
-        └──
-        └──
+│   │     ├── 1월_코스피_코스닥_비교.ipynb : 1월 동안의 코스피, 코스닥 종가 패턴 비교 코드
+│   │     └── 1월효과.ipynb : 1월 효과 가설 검정 코드
+│   │     └── 1월효과_all_data.ipynb : 여타 국가의 1월 효과 가설 검정 코드
 |   └── 서머랠리
-        ├── 기업_주가변화율과_반도체_수출금액_변화율_상관관계.ipynb :
-        └── 반도체_수출금액.ipynb : 
-        └── 상반기_수익률_7월_주가.ipynb : 상반기 수익률에 따른 7월 주가 패턴 분석 코드
-        └── 코스피_등락률과_대기업_주가변화율_상관관계.ipynb : 
+│         ├── 기업_주가변화율과_반도체_수출금액_변화율_상관관계.ipynb : 주가변화율과 반도체 수출액 상관관계 분석 코드 
+│         └── 반도체_수출금액.ipynb : 월간 반도체 수출금액 분석 코드
+│         └── 상반기_수익률_7월_주가.ipynb : 상반기 수익률에 따른 7월 주가 패턴 분석 코드
+│         └── 코스피_등락률과_대기업_주가변화율_상관관계.ipynb : 코스피 및 대기업 주가변화율 상관분석 
 └── README.md
 ``` 
