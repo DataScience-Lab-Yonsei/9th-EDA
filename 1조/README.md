@@ -6,11 +6,18 @@
 #### 참여자 : 도승범, 서연우, 신소연, 유선재, 정주영
 #### EDA 프로젝트 자료 소개
 > * Dataset
->   * [kospi_data.csv](https://dacon.io/competitions/official/235980/data) : KOSPI의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터입니다.
->   * [추가로찾은데이터.csv](관련된 데이터를 얻은 링크 <- 출처를 의미)
->   * [추가로크롤링한데이터.csv](필요시 위처럼 링크를 달 것)
-> * [1조 EDA 발표자료](https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : EDA 발표 때 사용한 ppt입니다.
-> * [1조 EDA 코드](https://github.com/SeungbeomDo/9th_EDA/tree/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EC%BD%94%EB%93%9C) : EDA 발표와 관련하여 사용된 코드입니다. 이하 tree 참조
+>   * [kospi_data.csv](https://dacon.io/competitions/official/235980/data) : KOSPI의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
+>   * [kosdaq_data.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : KOSDAQ의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
+>   * [nasdaq_data.csv](필요시 위처럼 링크를 달 것)
+>   * [S&P_data.csv]
+>   * [volume_investors.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : 투자자 유형별 일별 순매수금액을 담고 있는 데이터
+>   * [소비지출.xlsx](https://ecos.bok.or.kr/#/SearchStat) : 통계청 분기별 가계소비지출 데이터
+>   * [반도체.csv]
+>   * [삼성전자.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : 삼성전자 주식의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
+>   * [sk하이닉스.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : SK하이닉스 주식의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
+>   * [KOVIX.csv](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : VKOSPI의 일간 등락률, 종가, 시가 등의 정보를 담고 있는 데이터
+> * [1조 EDA 발표자료](https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : EDA 발표 때 사용한 ppt
+> * [1조 EDA 코드](https://github.com/SeungbeomDo/9th_EDA/tree/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EC%BD%94%EB%93%9C) : EDA 발표와 관련하여 사용된 코드. 이하 tree 참조
 <br>
 
 
@@ -66,9 +73,16 @@
 ```bash
 ├── Dataset
 │   ├── kospi_data.csv
-│   ├── 추가로찾은데이터
-│   └── 추가로크롤링한데이터
-│
+│   ├── kosdaq_data.csv
+│   └── nasdaq_data.csv
+│   └── S&P_data.csv
+│   └── volume_investors.csv
+│   └── 반도체.csv
+│   └── 삼성전자.csv
+│   └── sk하이닉스.csv
+│   └── 소비지출.xlsx
+│   └── KOVIX.csv
+|
 ├── 도승범
 │   └── dummy.txt
 ├── 서연우
