@@ -12,8 +12,8 @@
 >   *
 >   * [시간대별 지하철 승하차 인원.csv](<strong>고쳐야함</strong>)
 > * 5조 EDA 발표자료 : [5조/EDA_5조_발표자료.pdf](https://github.com/DataScience-Lab-Yonsei/9th_EDA/blob/main/5%E1%84%8C%E1%85%A9/EDA_5%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
-> * 5조 EDA 최종 코드 : 고쳐야함
->   * [EDA_5조_코드(1).ipynb](github code-url) : 데이터 수집 - 전처리(크롤링 포함) - t-test - 시각화 포함 코드
+> * 5조 EDA 최종 코드 :
+>   * [EDA_5조_코드.ipynb](github code-url) : 데이터 수집 - 전처리(크롤링 포함) - t-test - 시각화 포함 코드
 <br>
 
 
