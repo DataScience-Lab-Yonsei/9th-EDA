@@ -14,14 +14,14 @@
 >   * [organizations.csv](url) : 투자 받은 기업과 투자 기관 정보, 기업 위치(국가/미국의 경우 주) 등의 정보를 담고 있는 데이터입니다.
 > * 2조 EDA 발표자료 : EDA 발표 때 사용한 ppt입니다.
 > * 2조 EDA 최종 코드 : EDA 발표와 관련하여 사용된 코드입니다.
->   * [EDA_2조_코드(1).ipynb](github code-url) : 데이터 전처리한 코드입니다. IPO 또는 ACq 당시 기업 가치에 대한 rank / (IPO 당시 회사 기업 가치 또는 인수 합병 시 회사 가격)과,각 funding round에서의 회사 가치 를 비교하여 회사 가치 성장 정도를 계산하고 rank를 매긴 자료입니다. 이에 대한 것은 ‘Ranks.csv’, ‘Zs_IPO.csv’, ‘Zs_Acq.csv’로 저장했습니다.
+>   * [EDA_2조_코드(1).ipynb](https://github.com/Bokgithub/9th_EDA/blob/main/2%E1%84%8C%E1%85%A9/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C(1).ipynb) : 데이터 전처리한 코드입니다. IPO 또는 ACq 당시 기업 가치에 대한 rank / (IPO 당시 회사 기업 가치 또는 인수 합병 시 회사 가격)과,각 funding round에서의 회사 가치 를 비교하여 회사 가치 성장 정도를 계산하고 rank를 매긴 자료입니다. 이에 대한 것은 ‘Ranks.csv’, ‘Zs_IPO.csv’, ‘Zs_Acq.csv’로 저장했습니다.
 
->   * [EDA_2조_코드(2).ipynb](github code-url) : 투자동향을 살펴보기 위한 코드입니다.
+>   * [EDA_2조_코드(2).ipynb](https://github.com/Bokgithub/9th_EDA/blob/main/2%E1%84%8C%E1%85%A9/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C(2).ipynb) : 투자동향을 살펴보기 위한 코드입니다.
 지역 별 회사 개수, 지역 별 총 투자 금액, 투자가 많이 이루어진 top10 category, fundinground별 투자 정보에 대한 시각화 코드입니다.
->   * [EDA_2조_코드(3).ipynb](github code-url) : Seed money와 series a 진출 여부 및 인수합병 또는 기업 공개 때의 기업가치의 상관관계 분석한 코드입니다. 시각화 및 통계적 검정이 있습니다.
->   * [EDA_2조_코드(4).ipynb](github code-url) : 단일 투자 금액과 최종 기업 가치 대비 각 funding round에서의 기업 가치의 저평가(또는 고평가) 정도의 상관 관계 분석한 코드입니다. 시각화 및 통계적 검정이 있습니다.
+>   * [EDA_2조_코드(3).ipynb](https://github.com/Bokgithub/9th_EDA/blob/main/2%E1%84%8C%E1%85%A9/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C(3).ipynb) : Seed money와 series a 진출 여부 및 인수합병 또는 기업 공개 때의 기업가치의 상관관계 분석한 코드입니다. 시각화 및 통계적 검정이 있습니다.
+>   * [EDA_2조_코드(4).ipynb](https://github.com/Bokgithub/9th_EDA/blob/main/2%E1%84%8C%E1%85%A9/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C(4).ipynb) : 단일 투자 금액과 최종 기업 가치 대비 각 funding round에서의 기업 가치의 저평가(또는 고평가) 정도의 상관 관계 분석한 코드입니다. 시각화 및 통계적 검정이 있습니다.
 
->   * [EDA_2조_코드(5).ipynb](github code-url) : financing 크기와 IPO 및 Acquisiton 여부 및 인수합병 또는 기업 공개 때의 기업가치 상관관계 분석을 한 코드입니다. 시각화 및 통계적 검정이 있습니다.
+>   * [EDA_2조_코드(5).ipynb](https://github.com/Bokgithub/9th_EDA/blob/main/2%E1%84%8C%E1%85%A9/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C/EDA_2%EC%A1%B0_%EC%BD%94%EB%93%9C(5).ipynb) : financing 크기와 IPO 및 Acquisiton 여부 및 인수합병 또는 기업 공개 때의 기업가치 상관관계 분석을 한 코드입니다. 시각화 및 통계적 검정이 있습니다.
 
 
 <br>
@@ -70,7 +70,7 @@
 	- Acq와 관련된 rank는 인수 합병 당시 매각 가격을 큰 것부터 나열한 후, 사분위수로 구분한 것임. 따라서 각 그룹은 같은 개수이며 rank4부터 rank1까지 기업 가치가 큰 것부터 작은 것으로 sort되어 있음.
 
 (1) Seed money와 series a 진출 여부 및 인수합병 또는 기업 공개 때의 기업가치의 상관관계 분석
-	- Seed money 투자를 받은 기업들 중에서 series a 진출 여부로 그룹을 나누어 seed money의 평균을 barplot으로 나타내었고 이분산가정 하에서 t-test를 실시하여 평균의 유의미한 차이가 있음을 확인할 수 있었음.
+	- Seed money 투자를 받은 기업들 중에서 series a 진출 여부로 그룹을 나누어 seed money의 평균을 barplot으로 나타내었고 이분산가정 하에서 t-test를 실시하여 평균의 유의한 차이가 있음을 확인할 수 있었음.
 	- seed money를 받은 기업들 가운데 IPO와 Acquisition에 성공한 기업을 IPO 당시 기업 가치와 매각 당시 기업 가치를 기준으로 4개의 그룹으로 구분하여 seed money의 평균을 구한 barplot을 그림
 	- 비록 등분산 가정이 성립하지 않아 ANOVA 검정을 실시하진 못했지만 IPO와 Acquisition 단계에서 기업가치가 큰 기업일 수록 seed money의 평균이 높았음.
 	- 그런데 우리가 가진 데이터에 존재하는 26만개 정도의 회사들 중 16만개 정도의 회사들이 seed money를 가지지 않고 시작했음.
