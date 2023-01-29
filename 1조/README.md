@@ -83,11 +83,21 @@
 ├── EDA_1조_발표자료.pdf
 ├── EDA_1조_코드
 │   ├── 월요일효과
-|       ├── [월요일효과_all_date.ipynb](https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EC%BD%94%EB%93%9C/%EC%9B%94%EC%9A%94%EC%9D%BC%ED%9A%A8%EA%B3%BC/%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%92%E1%85%AD%E1%84%80%E1%85%AA_all_data.ipynb) : 월요일 효과 가설 검정 코드
-|       └── [요일별_변동성.ipynb] (https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EC%BD%94%EB%93%9C/%EC%9B%94%EC%9A%94%EC%9D%BC%ED%9A%A8%EA%B3%BC/%EC%9A%94%EC%9D%BC%EB%B3%84_%EB%B3%80%EB%8F%99%EC%84%B1.ipynb) : 요일별 VKOSPI 지수 비교하는 코드
+|       ├── 월요일효과_all_date.ipynb : 월요일 효과 가설 검정 코드
+|       └── 요일별_변동성.ipynb : 요일별 VKOSPI 지수 비교하는 코드
 |       └──
-│   └── 연말효과      
+│   └── 연말효과
+        ├── 분기별_소비지출.ipynb : 분기별 소비지출 비교 코드
+        └── 수익률_코드_정리.ipynb : 월간, 분기간 수익률 산출 코드
+        └── 순매수_코드_정리.ipynb : 12월 동안의 거래주체별 순매수량 비교 코드
 │   └── 1월효과
+        ├── 1월_코스피_코스닥_비교.ipynb : 1월 동안의 코스피, 코스닥 종가 패턴 비교 코드
+        └──
+        └──
 |   └── 서머랠리
+        ├── 기업_주가변화율과_반도체_수출금액_변화율_상관관계.ipynb :
+        └── 반도체_수출금액.ipynb : 
+        └── 상반기_수익률_7월_주가.ipynb : 상반기 수익률에 따른 7월 주가 패턴 분석 코드
+        └── 코스피_등락률과_대기업_주가변화율_상관관계.ipynb : 
 └── README.md
 ``` 
