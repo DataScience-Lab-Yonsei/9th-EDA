@@ -14,7 +14,7 @@
 >   * [서울시 기간별 시간평균 대기환경 정보](https://data.seoul.go.kr/dataList/OA-2221/S/1/datasetView.do): 기간별로 시간 평균(1시간, 24시간) 대기오염물질 농도 정보를 담은 데이터
 >   * [네이버 블로그 크롤링 API](https://openapi.naver.com/v1/search/blog): 블로그 크롤링으로 워드클라우드 작성 시 사용한 공개 API
 > * [4조 EDA 발표자료](4조/EDA_4조_발표자료.pdf) : EDA 발표 때 사용한 ppt입니다.
-> * [4조 EDA 최종 코드](깃허브 url) : EDA 발표와 관련하여 사용된 코드입니다.
+> * [4조 EDA 최종 코드](4조/EDA_4조_코드.ipynb) : EDA 발표와 관련하여 사용된 코드입니다.
 
 <br>
 
