@@ -10,9 +10,7 @@
 >   * [추가로찾은데이터.csv](관련된 데이터를 얻은 링크 <- 출처를 의미)
 >   * [추가로크롤링한데이터.csv](필요시 위처럼 링크를 달 것)
 > * [1조 EDA 발표자료](https://github.com/SeungbeomDo/9th_EDA/blob/main/1%E1%84%8C%E1%85%A9/EDA_1%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : EDA 발표 때 사용한 ppt입니다.
-> * 1조 EDA 최종 코드 : EDA 발표와 관련하여 사용된 코드입니다.
->   * [EDA_1조_코드(1).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xx데이터 수집을 위한 크롤링 코드입니다.
->   * [EDA_1조_코드(2).ipynb](github code-url) : 대략적으로 어떤 코드인지 간단하게 설명을 적어주세요. Ex. xxtask를 수행하기 위한 시각화 및 통계적 검정과 관련된 코드입니다.
+> * 1조 EDA 최종 코드 : EDA 발표와 관련하여 사용된 코드입니다. 이하 tree 참조
 <br>
 
 
